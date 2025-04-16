@@ -1,2 +1,3 @@
-# minio-metrics-analyzer
-A Golang project for assessing MinIO metrics
+# MinIO Metrics Analyzer
+
+A golang command line tool for analyzing MinIO metrics
